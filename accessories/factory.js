@@ -575,6 +575,7 @@ module.exports = homebridge => {
     }
   }
   FACTORIES.set('SHMOS-01', ShellyMotionFactory)
+  FACTORIES.set('SHMOS-02', ShellyMotionFactory)
 
   /**
    * Returns the factory for the given device.
