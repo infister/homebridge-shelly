@@ -1,5 +1,5 @@
 const os = require('os')
-const shellies = require('shellies')
+const shellies = require('shellies-infister')
 
 const AdminServer = require('./admin')
 

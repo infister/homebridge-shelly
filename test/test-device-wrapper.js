@@ -1,6 +1,6 @@
 /* eslint-env mocha */
 
-const shellies = require('shellies')
+const shellies = require('shellies-infister')
 const sinon = require('sinon')
 
 const Homebridge = require('./mocks/homebridge')

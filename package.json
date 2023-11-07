@@ -36,6 +36,6 @@
     "colors": "^1.4.0",
     "command-line-commands": "^3.0.2",
     "express": "^4.17.2",
-    "shellies": "^1.7.0"
+    "shellies-infister": "^1.7.0"
   }
 }
